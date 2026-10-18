@@ -1,0 +1,15 @@
+{
+  "name": "Iran Token",
+  "symbol": "IRAN",
+  "description": "Iran Token (IRAN) is a Devnet test token with a green, white and red theme. It has no real monetary value.",
+  "image": "https://raw.githubusercontent.com/mdjakariya2003-ship-it/iran-token/main/assets/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mdjakariya2003-ship-it/iran-token/main/assets/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
