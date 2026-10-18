@@ -9,7 +9,8 @@
     "logo": "tsx scripts/make-logo.ts",
     "create": "tsx src/create-token.ts",
     "verify": "tsx src/verify.ts",
-    "test": "vitest run"
+    "test": "vitest run",
+    "balance": "tsx src/balance.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
